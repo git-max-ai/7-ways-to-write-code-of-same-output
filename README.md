@@ -1,0 +1,1 @@
+# 7-ways-to-write-code-of-same-output
